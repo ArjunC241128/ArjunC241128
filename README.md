@@ -42,15 +42,15 @@ I'm Arjun, a 2nd-year Computer Science student and trying to be a Frontend Devel
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Araf1011&theme=react&show_icons=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunC241128&theme=react&show_icons=true&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Araf1011&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArjunC241128&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
 ---
 
 ### 🧩 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araf1011&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunC241128&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
 
 ---
@@ -64,7 +64,7 @@ I'm Arjun, a 2nd-year Computer Science student and trying to be a Frontend Devel
 
 ## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Araf1011&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjunC241128&theme=react-dark)
 
 <br/>
 
